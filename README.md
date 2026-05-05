@@ -18,11 +18,11 @@ The project was developed using:
 * Cybersecurity Concepts
 * Academic References
 
-Files
+## Files
 
 * Report.pdf
 * Presentation.pdf
 
-Course
+## Course
 
 Topics in Computing
