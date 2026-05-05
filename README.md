@@ -1,4 +1,4 @@
-Cybersecurity Project
+# Cybersecurity Project
 
 This is a group project for the Topics in Computing course.
 
